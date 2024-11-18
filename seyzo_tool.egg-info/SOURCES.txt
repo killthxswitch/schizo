@@ -1,0 +1,7 @@
+setup.py
+seyzo_tool.egg-info/PKG-INFO
+seyzo_tool.egg-info/SOURCES.txt
+seyzo_tool.egg-info/dependency_links.txt
+seyzo_tool.egg-info/entry_points.txt
+seyzo_tool.egg-info/requires.txt
+seyzo_tool.egg-info/top_level.txt

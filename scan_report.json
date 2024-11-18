@@ -1,0 +1,19 @@
+{
+    "http://example.com": {
+        ".git/config": {
+            "status": 404,
+            "content": null,
+            "error": null
+        },
+        ".env": {
+            "status": 404,
+            "content": null,
+            "error": null
+        },
+        "Dockerfile": {
+            "status": 404,
+            "content": null,
+            "error": null
+        }
+    }
+}
